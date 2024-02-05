@@ -4,7 +4,8 @@
   "description": "comp2156 lab exericse ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"error: no ci configured\""
   },
   "keywords": [],
   "author": "liam crichton",
