@@ -1,8 +1,6 @@
 name: dev ops lab 4
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
-on: 
-  push:
-    branches: ["main"]
+on:
   pull_request:  
     branches: ["main"]
 jobs:
