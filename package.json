@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "comp2156 lab exericse ",
   "main": "index.js",
+  "homepage": "https://github.com/crash5467/comp2156_labs",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "test": "echo \"Warning: No tests created yet.\"",
     "eject": "react-scripts eject"
